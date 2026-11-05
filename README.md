@@ -26,7 +26,7 @@ images/                              figures used in the report
 ```
 
 ## Data source
-IBM HR Analytics Employee Attrition & Performance, a public sample dataset created by IBM data scientists. Source: [add link to the page you downloaded it from]. Please check the license there before reusing the data.
+IBM HR Analytics Employee Attrition & Performance, a public sample dataset created by IBM data scientists. Source: [`here`](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data). Please check the license there before reusing the data.
 Constant columns (EmployeeCount, StandardHours, Over18) were excluded.
 
 ## Methods
