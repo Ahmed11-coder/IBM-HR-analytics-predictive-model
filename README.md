@@ -1,5 +1,7 @@
 # Why Do Employees Leave? Employee Attrition Analysis (Excel + SPSS)
 
+![Banner](./banner.png)
+
 An end-to-end analysis of the IBM HR Analytics Employee Attrition dataset: exploratory charts in Excel, statistical tests and a logistic regression in SPSS, validated on a held-out test set.
 
 **Full write-up (PDF, with all figures):** [`Why_Do_Employees_Leave_V_Final.pdf`](Why_Do_Employees_Leave_V_Final.pdf)
